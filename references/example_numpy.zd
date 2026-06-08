@@ -1,0 +1,11 @@
+设置随机种子 42
+创建数组 a = [1, 2, 3, 4]
+数组 a 重塑 为 [2, 2] 保存为 A
+转置 A 为 AT
+矩阵 A 点乘 AT 为 C
+对 C 求和 为 total
+对 C 求平均 按轴 0 为 column_mean
+打印 C
+打印 total
+打印 column_mean
+保存数组 "matrix.npy" 从 C
