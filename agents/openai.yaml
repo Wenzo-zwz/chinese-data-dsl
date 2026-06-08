@@ -1,0 +1,7 @@
+interface:
+  display_name: "Chinese Data DSL"
+  short_description: "中文转译、验证并部署 pandas/NumPy 数据工作流"
+  default_prompt: "Use $chinese-data-dsl to turn Chinese data-analysis steps into executable pandas and NumPy code, then validate or deploy the skill when needed."
+
+policy:
+  allow_implicit_invocation: true
